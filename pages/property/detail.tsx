@@ -1,5 +1,5 @@
 import withLayoutBasic from "@/libs/components/layout/LayoutBasic";
-import { Container, Stack } from "@mui/material";
+import { Container } from "@mui/material";
 import { NextPage } from "next";
 
 const PropertyDetail: NextPage = () => {
