@@ -45,6 +45,9 @@ const TopAgents = ({initialInput, ...props}: any) => {
               })}
             </Swiper>
           </Box>
+          <Box className={"switch-btn swiper-agents-next"}>
+            <ArrowBackIosNewIcon />
+          </Box>
         </Stack>
       </Stack>
     </Stack>

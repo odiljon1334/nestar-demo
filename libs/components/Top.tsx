@@ -6,7 +6,7 @@ import Link from "next/link";
 const Top = () => {
     return (
         <Stack className={"navbar"}>
-            <Stack className={"navbar-main"}>
+            <Stack className={"navbar-main transparent"}>
                 <Stack className={"container"}>
                     <Box component={"div"} className={"logo-box"}>
                         <Link href={"/"}>
